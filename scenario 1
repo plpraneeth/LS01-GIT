@@ -1,4 +1,8 @@
 1 st line in the file
 2 nd line in the file 
 3 rd line in branch1
+<<<<<<< Updated upstream
 7 th line in branch1
+=======
+5 th line in the file
+>>>>>>> Stashed changes
